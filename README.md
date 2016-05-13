@@ -1,4 +1,4 @@
-# unity-udemy-guess-the-number
+# Guess the Number - UI
 
 Simple Unity game with a very basic UI. Developed as part of The Complete Unity Developer course in Udemy (https://www.udemy.com/unitycourse/).
 
