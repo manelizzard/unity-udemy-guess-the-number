@@ -6,3 +6,4 @@ Simple Unity game with a very basic UI. Developed as part of The Complete Unity 
 
 This is a simple game where you think of a number, and the computer tries to guess it in as few tries as possible. See www.completeunitydeveloper.com/numberwizard for more information.
 
+![Game start menu](http://i.imgur.com/klPiTtr.png)
